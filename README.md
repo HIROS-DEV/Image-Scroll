@@ -1,5 +1,8 @@
 # Image-Scroll
 
+## Video of the project
+https://user-images.githubusercontent.com/95255730/145763163-edbe2a61-f837-4b4f-af32-72235d427cfb.mov
+
 ## ScreenShot of the project (Desktop)
 
 <img src="images/desktop.png"/>
